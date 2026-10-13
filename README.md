@@ -3,7 +3,7 @@
 ![Welcome GIF](https://i.pinimg.com/originals/7d/01/2e/7d012e426a845a849bf0c017819916b0.gif)
 
 **Course:** DSA-441 Cloud Computing  
-**Live Application:** [https://thailand-air-quality-monitoring-dashboard.streamlit.app](https://thailand-air-quality-monitoring-dashboard.streamlit.app)
+**Live Application:** [https://thailand-air-quality-monitoring-dashboard.streamlit.app](https://thailand-air-quality-monitoring-dashboard-web-app.streamlit.app/)
 
 ## Project Overview
 This project implements a responsive multi-district IoT air quality monitoring dashboard for Thailand. Built to transition from a static prototype to an interactive web application, it integrates real-time telemetry ingestion with secure cloud secrets management and a modern, bright UI aesthetic.
